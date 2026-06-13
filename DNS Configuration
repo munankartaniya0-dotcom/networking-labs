@@ -1,0 +1,20 @@
+DNS Configuration Lab using Cisco Packet Tracer
+This project demonstrates the configuration and testing of the Domain Name System (DNS) in a simulated network environment using Cisco Packet Tracer. The lab shows how DNS translates domain names into IP addresses, allowing devices to communicate using human-readable names instead of numerical IP addresses.
+
+Features -
+1. DNS Server configuration
+IP addressing setup
+2. Client-PC network configuration
+3. DNS record creation
+4. Domain name resolution testing
+5. Network connectivity verification using Ping and Web Browser
+
+Tools Used -
+1. Cisco Packet Tracer
+2. Networking Devices (PCs, Switches, Routers, Servers)
+3. Learning Outcomes
+4. Understand the working of DNS.
+5. Configure a DNS server in Packet Tracer.
+6. Create and manage DNS records.
+7. Test domain name resolution in a network.
+8. Troubleshoot basic DNS-related issues.
